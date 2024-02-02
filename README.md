@@ -10,9 +10,7 @@
   <a href="https://instagram.com/noyonaa" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="noyonaa" height="30" width="40" />
   </a>
-   <a href="https://www.linkedin.com/in/nayana-das-180311205/" target="_blank">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgist.github.com%2FAkash-Ramjyothi%2Fe6eaab24b651e44359e4f7df1e68466b&psig=AOvVaw2v77sL2z7rsxrCfDXmies2&ust=1706984265790000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPD87YqijYQDFQAAAAAdAAAAABAE" alt="noyonaa" height="30" width="40" />
-  </a>
+   
   <a href="https://www.leetcode.com/noyonaa" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="noyonaa" height="30" width="40" />
   </a>
